@@ -49,7 +49,7 @@ export default function App() {
   return (
     <div className="App">
 
-        <img src='https://avatars.githubusercontent.com/u/87824330?s=280&v=4'/>
+        <img src='https://avatars.githubusercontent.com/u/87824330?s=280&v=4' alt='logo-gds'/>
         <h1>Conferindo datas</h1>
         <Input 
           type="date" 
